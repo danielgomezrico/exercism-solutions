@@ -1,0 +1,3 @@
+def teenager = new Bob
+def eee = new Bob
+var ddd = new Bob
