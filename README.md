@@ -6,7 +6,8 @@ Solutions to exercism.io problems
 Commit comments are composed by: `type` `<empty_space>` `message`.
 
 Types:
-* `=`: UPDATE
-* `+`: ADD 
-* `-`: REMOVE
-* `F`: FIX
+- :muscle: `muscle` : UPDATE
+- :neckbeard: `neckbeard` : ADD 
+- :shipit: `shipit` : REMOVE
+- :clap:: `clap` : FIX
+- :umbrella: `umbrella` : CLEAN
